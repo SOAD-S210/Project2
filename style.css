@@ -1,0 +1,91 @@
+@charset "utf-8";
+.store{
+	margin: 0;
+	padding: 0;
+}
+
+.introtext{
+	position: absolute;
+	top: 810px;
+	left: 530px;
+}
+
+.Dairy{
+	position: absolute;
+	top: 550px;
+	left: 300px;
+}
+
+.Dairy:hover{
+	top: 530px;
+}
+
+.Fruits{
+	position: absolute;
+	top: 10px;
+	left: 58px;
+}
+
+.Fruits:hover{
+	top: 13px;
+}
+
+.Produce{
+	position: absolute;
+	top: 230px;
+	left: 700px;
+}
+
+.Produce:hover{
+	top: 250px;
+}
+
+.Snacks{
+	position: absolute;
+	top: 580px;
+	left: 890px;
+}
+
+.Snacks:hover{
+	top: 600px;
+}
+
+.Meat{
+	position: absolute;
+	top: 850px;
+	left: 220px;
+}
+
+.Meat:hover{
+	top: 840px;
+}
+
+.SubPage{
+	margin: 0;
+	padding: 0;
+}
+
+.SubMain{
+	position: absolute;
+	top: 5px;
+	left: 8px;
+	opacity: 10%;
+	transition: opacity 3s;
+}
+
+.SubMain:hover{
+	opacity: 80%;
+}
+
+.SubPageText{
+	position: absolute;
+	top: 1000px;
+	left: 450px;
+}
+
+.Suspense{
+	position: absolute;
+	top: 850px;
+	left: 530px;
+	opacity: 70%;
+}
